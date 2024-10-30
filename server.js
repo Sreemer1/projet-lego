@@ -8,6 +8,9 @@ import compression from 'compression';
 // Créer le serveur
 const app = express();
 
+//allo penis jergi 
+
+
 // Ajout de middleware
 app.use(helmet());
 app.use(cors());
